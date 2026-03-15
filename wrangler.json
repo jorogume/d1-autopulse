@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "d1-autopulse",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "0800172a-45c1-47ab-985e-8f432951eb30",
+			"database_name": "autopulse"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
